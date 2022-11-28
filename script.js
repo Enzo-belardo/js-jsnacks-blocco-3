@@ -7,4 +7,5 @@ let numbers = prompt('inserisci numero');
 while (numbers != number) {
     numbers = prompt('inserisci numero');
 }
+console.log('numero giusto')
 
